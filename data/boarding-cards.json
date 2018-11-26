@@ -1,0 +1,36 @@
+{
+    "boardingCards": [
+        {
+            "from": "Stockholm",
+            "to": "New York JFK",
+            "transportationMode": "Airplane",
+            "transportationModeNumber": "SK22",
+            "seatAssignment": "Gate 22, seat 7B.",
+            "additionalInfo": "Baggage will be automatically transferred from your last leg."
+        },
+        {
+            "from": "Barcelona",
+            "to": "Gerona Airport",
+            "transportationMode": "Bus",
+            "transportationModeNumber": "",
+            "seatAssignment": "",
+            "additionalInfo": ""
+        },
+        {
+            "from": "Madrid",
+            "to": "Barcelona",
+            "transportationMode": "Train",
+            "transportationModeNumber": "78A",
+            "seatAssignment": "45B",
+            "additionalInfo": ""
+        },
+        {
+            "from": "Gerona Airport",
+            "to": "Stockholm",
+            "transportationMode": "Airplane",
+            "transportationModeNumber": "SK455",
+            "seatAssignment": "Gate 45B, seat 3A.",
+            "additionalInfo": "Baggage drop at ticket counter 344."
+        }
+    ]
+}
